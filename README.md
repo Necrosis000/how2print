@@ -9,7 +9,7 @@
 - C
 - And More!
 
-
-### Milestones
+-------------------
+## Milestones
 
 25th language added - January 28th, 2023
